@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there! 👋
+
+![onyqx5ayj1kb1](https://github.com/user-attachments/assets/03557315-3a10-4bfd-887a-e4f982e0e61d)
 
 <!--
 **pamiryalcin/pamiryalcin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
